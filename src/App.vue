@@ -5,6 +5,7 @@
       :key="key"
       :name="key"
       :pop="value"
+      :topPop="langData.English"
     />
   </div>
 </template>
